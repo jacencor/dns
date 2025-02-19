@@ -2,5 +2,10 @@
 # Last modified: 09-02-2025
 # ..............
 
-127.0.0.1 www.google.cn
+127.0.0.1 google.cn
+127.0.0.1 proxy2.wynd.network
+127.0.0.1 meiboot.com
+127.0.0.1 healthiernull.com
+127.0.0.1 hexsdk.com
+
 
