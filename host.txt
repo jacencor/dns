@@ -7,5 +7,5 @@
 127.0.0.1 meiboot.com
 127.0.0.1 healthiernull.com
 127.0.0.1 hexsdk.com
-
+127.0.0.1 www.google.cn
 
